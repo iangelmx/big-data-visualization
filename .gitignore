@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#Ignore token files
+settings.json
+
+#Archivos de salida extracting:
+salida_reactions.csv
+salida_reactions.xlsx
+
 # Distribution / packaging
 .Python
 build/
