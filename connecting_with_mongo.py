@@ -47,3 +47,7 @@ print("Actualizado:")
 cursor = db.users.find()
 
 [ print(documento) for documento in cursor ]
+
+
+# %%
+
