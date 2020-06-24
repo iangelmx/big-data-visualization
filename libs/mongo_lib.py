@@ -1,3 +1,25 @@
+"""
+Library to support pymongodb's use
+
+This was developed to improve and save time in futures developments
+that requires the MongoDB database.
+Also, this was created to homogenize the work way in a dev team
+
+Developed by: Ángel Negib Ramírez Álvarez
+
+Version: 1.0
+
+First release: 2020-06-23
+Last modification: 2020-06-23
+
+Some help for all the people that know how to work with SQL, but
+no with MongoDB
+
+https://docs.mongodb.com/manual/reference/sql-comparison/
+"""
+
+
+
 #In[1]:
 import pymongo
 from pymongo import MongoClient
@@ -5,6 +27,8 @@ from typing import Union
 import urllib.parse
 import typing
 import bson
+
+
 
 #In[2]:
 class Bd(  ):
@@ -20,9 +44,6 @@ class Bd(  ):
 		self.__pass = passw
 		self.__database = database
 		self.__port = port if port else 27017
-
-		#uri = "mongodb://%s:%s@%s" % (self.__user, self.__pass,self.__hostname)
-		#client = MongoClient(uri)
 
 		self.__client = MongoClient(
 			self.__hostname,
@@ -47,27 +68,3 @@ class Bd(  ):
 	
 	def find_where( self, collection:str, where:dict) -> tuple:
 		return tuple(self.__db_object[ collection ].find( where ))
-		
-		
-
-#In[3]:
-
-bd = Bd( '127.0.0.1', 'aramirez', 'iangelmx', 'test' )
-
-#In[4]:
-
-a = bd.insert_in_db( 'users', {'name':'Angel Rmz', 'age':23} )
-type(a)
-
-#In[5]:
-
-cursor = bd.get_docs( 'users' )
-print(cursor)
-# %%
-[print(document) for document in cursor]
-
-# %%
-c = bd.find_where( 'users', {'age':23} )
-print(c)
-
-# %%

@@ -1,3 +1,24 @@
+"""
+Script to get some analytics from a FB page and save to CSV/XLSX
+
+This script was developed according the Visualization Big data's course in FCS.
+This script helps people of marketing to get more information about the
+activity in their social media page in Facebook in a free way.
+To make it run you need to make an app in FB for developers, then get a TOKEN with
+the permissions of page read/manage posts.
+
+Created by: Ángel Negib Ramírez Álvarez
+        Github:     iangelmx
+        Email:      angel@ninjacom.space
+
+Version: 1.3
+
+First release: 2020-06-21
+Last modification: 2020-06-23
+"""
+
+
+
 #In[1]
 import facebook
 import requests
