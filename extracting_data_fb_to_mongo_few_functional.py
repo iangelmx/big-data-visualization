@@ -7,14 +7,16 @@ activity in their social media page in Facebook in a free way.
 To make it run you need to make an app in FB for developers, then get a TOKEN with
 the permissions of page read/manage posts.
 
+This was done from a imperative form to a more functional way
+
 Created by: Ángel Negib Ramírez Álvarez
         Github:     iangelmx
         Email:      angel@ninjacom.space
 
-Version: Alpha
+Version: Beta
 
 First release: 2020-06-23
-Last modification: 2020-06-24
+Last modification: 2020-06-25
 """
 
 
@@ -26,36 +28,16 @@ import json
 import pandas as pd
 import datetime
 from libs.mongo_lib import Bd
+from libs.fb_functions import *
 
-#In[2]:
-
-def get_reaction_from_post( row : pd.core.series.Series ) -> pd.core.series.Series:
-    
-    post_id = row['id']
-    reactions = graph.get_connections(post_id, 'reactions', fields='pic,name,pic_large,profile_type,pic_crop,can_post,type,link,id')
-    #Para irnos moviendo entre las páginas
-    paging = reactions.get('paging')
-    reactions = reactions['data']
-
-    for react in reactions:
-        row[ react['type'].lower() ] +=1
-        row[ 'users_likes' ].append( react['name'] )
-    return row
-    
-    
 #In[3]
 
 settings = json.loads(open("settings.json").read())
-CANT_COMMENTS = 10
+#CANT_COMMENTS = 10
 ACCESS_TOKEN = settings.get('access_token')
 PAGE_ID = settings.get('id_fb_page')
 
 graph = facebook.GraphAPI(access_token=ACCESS_TOKEN, version="3.1")
-
-cuenta_likes = 0
-lista_comments = []
-flag = False
-
 
 #In[4]
 
@@ -65,11 +47,12 @@ comments = comments['data']
 comments
 
 
-#In[5]:
+#In[5]: No es necesario ejecutar.
 
-# Esto lo hice, porque al ejecutar likes_post = { ... } me daba{
+# Esto lo hice, porque al ejecutar likes_post = { ... } me daba
 # un error, de que había posts sin 'messages', se trata de publicaciones
-# sin un cuerpo de texto. Sólo notificaciones o algo como eso ~}
+# sin un cuerpo de texto. Sólo notificaciones o algo como eso ~
+# No es necesario para la ejecución... 
 with_no_message = filter( lambda x: 'message' not in x, comments )
 with_no_message = tuple(with_no_message)
 
@@ -84,7 +67,7 @@ likes_post = [
         'like':0, 
         'love':0, 
         'haha':0, 
-        'angy':0, 
+        'angry':0, 
         'care':0, 
         'wow':0, 
         'sad':0,
@@ -101,52 +84,23 @@ posts
 posts_with_reactions = posts.apply( get_reaction_from_post, axis='columns' )
 posts_with_reactions
 
-#In[8]:
-## Change CSV/XLSX to MongoDB
-#posts_with_reactions.to_csv( 'salida_reactions.csv' )
-#posts_with_reactions.to_excel( 'salida_reactions.xlsx' )
-
-# Ahorita lo hice de forma imperativa :c
-# Estoy un poco traumatizado con eso desde #Resuelve, jaja...
-
-# Cuando pueda, lo cambiaré a funcional...
-to_mongo = posts_with_reactions.to_dict()
-to_mongo
-
 #In[9]:
 bd = Bd('localhost', 'aramirez', 'iangelmx', 'test')
-#bd.insert_in_db('example', to_mongo)
-
-#In[10]:
-
-print(to_mongo.keys())
-
-big_collection = []
-big_collection
-
-#In[11]:
 
 
-for key in to_mongo:
-    if key == 'id':
-        for sub_key in to_mongo[key]:
-            document = { 
-                key : to_mongo[key][sub_key]
-            }
-            big_collection.append( document )
-    else:
-        for sub_key in to_mongo[key]:
-            big_collection[ sub_key ][ key ] = to_mongo[key][sub_key]
+#In[13]: Forma alternativa al procesamiento imperativo
+#Esto es mucho más funcional que imperativo, aunque aún tengo mis dudas.
+
+posts_with_reactions['documents'] = posts_with_reactions.apply( lambda row: row.to_dict() , axis='columns' )
+
+#In[14]: Obtenemos los documentos y los guardamos en forma de lista
+to_mongo_2 = posts_with_reactions['documents'].to_list()
+
+#Instanciamos Mongo
+bd = Bd('localhost', 'aramirez', 'iangelmx', 'test')
+# Enviamos a guardar en la collection 'facebook_insights_2' nuestra colección de documentos.
+bd.insert_in_db('facebook_insights_2', to_mongo_2 )
 
 
-big_collection
-
-# Cuando terminé de hacerlo así, se me ocurrió cómo
-# hacerlo un poco más funcional con pandas...
-# No cabe duda de que aprendí a programar de forma imperativa.
-
-#In[12]:
-
-bd.insert_in_db('facebook_insights', big_collection )
 
 # %%
