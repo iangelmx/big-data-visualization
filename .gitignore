@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Ignore vs config
+.vscode/
+
 #Ignore token files
 settings.json
 

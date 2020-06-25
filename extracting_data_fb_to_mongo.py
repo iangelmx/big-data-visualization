@@ -14,7 +14,7 @@ Created by: Ángel Negib Ramírez Álvarez
 Version: Alpha
 
 First release: 2020-06-23
-Last modification: 2020-06-23
+Last modification: 2020-06-24
 """
 
 
@@ -39,7 +39,7 @@ def get_reaction_from_post( row : pd.core.series.Series ) -> pd.core.series.Seri
 
     for react in reactions:
         row[ react['type'].lower() ] +=1
-        row[ 'users_likes' ].append( (react['name'], ) )
+        row[ 'users_likes' ].append( react['name'] )
     return row
     
     
@@ -106,5 +106,47 @@ posts_with_reactions
 #posts_with_reactions.to_csv( 'salida_reactions.csv' )
 #posts_with_reactions.to_excel( 'salida_reactions.xlsx' )
 
+# Ahorita lo hice de forma imperativa :c
+# Estoy un poco traumatizado con eso desde #Resuelve, jaja...
+
+# Cuando pueda, lo cambiaré a funcional...
+to_mongo = posts_with_reactions.to_dict()
+to_mongo
+
+#In[9]:
+bd = Bd('localhost', 'aramirez', 'iangelmx', 'test')
+#bd.insert_in_db('example', to_mongo)
+
+#In[10]:
+
+print(to_mongo.keys())
+
+big_collection = []
+big_collection
+
+#In[11]:
+
+
+for key in to_mongo:
+    if key == 'id':
+        for sub_key in to_mongo[key]:
+            document = { 
+                key : to_mongo[key][sub_key]
+            }
+            big_collection.append( document )
+    else:
+        for sub_key in to_mongo[key]:
+            big_collection[ sub_key ][ key ] = to_mongo[key][sub_key]
+
+
+big_collection
+
+# Cuando terminé de hacerlo así, se me ocurrió cómo
+# hacerlo un poco más funcional con pandas...
+# No cabe duda de que aprendí a programar de forma imperativa.
+
+#In[12]:
+
+bd.insert_in_db('facebook_insights', big_collection )
 
 # %%
