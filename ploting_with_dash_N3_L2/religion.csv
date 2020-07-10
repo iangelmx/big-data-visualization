@@ -1,0 +1,705 @@
+Estado,Sexo,Rango_Edades,Personas
+Aguascalientes,Hombres,De 15 a 19 años,1270
+Aguascalientes,Hombres,De 20 a 24 años,1549
+Aguascalientes,Hombres,De 25 a 29 años,1278
+Aguascalientes,Hombres,De 30 a 34 años,1156
+Aguascalientes,Hombres,De 35 a 39 años,944
+Aguascalientes,Hombres,De 40 a 44 años,797
+Aguascalientes,Hombres,De 45 a 49 años,739
+Aguascalientes,Hombres,De 50 a 54 años,672
+Aguascalientes,Hombres,De 55 a 59 años,471
+Aguascalientes,Hombres,De 60 a 64 años,391
+Aguascalientes,Hombres,De 65 a 69 años,247
+Aguascalientes,Mujeres,De 15 a 19 años,916
+Aguascalientes,Mujeres,De 20 a 24 años,1048
+Aguascalientes,Mujeres,De 25 a 29 años,859
+Aguascalientes,Mujeres,De 30 a 34 años,678
+Aguascalientes,Mujeres,De 35 a 39 años,612
+Aguascalientes,Mujeres,De 40 a 44 años,552
+Aguascalientes,Mujeres,De 45 a 49 años,520
+Aguascalientes,Mujeres,De 50 a 54 años,386
+Aguascalientes,Mujeres,De 55 a 59 años,260
+Aguascalientes,Mujeres,De 60 a 64 años,182
+Aguascalientes,Mujeres,De 65 a 69 años,104
+Baja California,Hombres,De 15 a 19 años,18424
+Baja California,Hombres,De 20 a 24 años,21524
+Baja California,Hombres,De 25 a 29 años,19599
+Baja California,Hombres,De 30 a 34 años,17083
+Baja California,Hombres,De 35 a 39 años,15376
+Baja California,Hombres,De 40 a 44 años,11985
+Baja California,Hombres,De 45 a 49 años,9218
+Baja California,Hombres,De 50 a 54 años,7108
+Baja California,Hombres,De 55 a 59 años,4818
+Baja California,Hombres,De 60 a 64 años,3578
+Baja California,Hombres,De 65 a 69 años,2430
+Baja California,Mujeres,De 15 a 19 años,14383
+Baja California,Mujeres,De 20 a 24 años,15943
+Baja California,Mujeres,De 25 a 29 años,13326
+Baja California,Mujeres,De 30 a 34 años,11152
+Baja California,Mujeres,De 35 a 39 años,9634
+Baja California,Mujeres,De 40 a 44 años,7298
+Baja California,Mujeres,De 45 a 49 años,5517
+Baja California,Mujeres,De 50 a 54 años,3792
+Baja California,Mujeres,De 55 a 59 años,2468
+Baja California,Mujeres,De 60 a 64 años,1826
+Baja California,Mujeres,De 65 a 69 años,1140
+Baja California Sur,Hombres,De 15 a 19 años,2332
+Baja California Sur,Hombres,De 20 a 24 años,2926
+Baja California Sur,Hombres,De 25 a 29 años,2860
+Baja California Sur,Hombres,De 30 a 34 años,2508
+Baja California Sur,Hombres,De 35 a 39 años,1975
+Baja California Sur,Hombres,De 40 a 44 años,1458
+Baja California Sur,Hombres,De 45 a 49 años,1165
+Baja California Sur,Hombres,De 50 a 54 años,995
+Baja California Sur,Hombres,De 55 a 59 años,745
+Baja California Sur,Hombres,De 60 a 64 años,496
+Baja California Sur,Hombres,De 65 a 69 años,352
+Baja California Sur,Mujeres,De 15 a 19 años,1604
+Baja California Sur,Mujeres,De 20 a 24 años,1903
+Baja California Sur,Mujeres,De 25 a 29 años,1733
+Baja California Sur,Mujeres,De 30 a 34 años,1432
+Baja California Sur,Mujeres,De 35 a 39 años,1154
+Baja California Sur,Mujeres,De 40 a 44 años,861
+Baja California Sur,Mujeres,De 45 a 49 años,652
+Baja California Sur,Mujeres,De 50 a 54 años,518
+Baja California Sur,Mujeres,De 55 a 59 años,302
+Baja California Sur,Mujeres,De 60 a 64 años,193
+Baja California Sur,Mujeres,De 65 a 69 años,142
+Campeche,Hombres,De 15 a 19 años,6084
+Campeche,Hombres,De 20 a 24 años,5792
+Campeche,Hombres,De 25 a 29 años,5303
+Campeche,Hombres,De 30 a 34 años,4870
+Campeche,Hombres,De 35 a 39 años,4381
+Campeche,Hombres,De 40 a 44 años,3397
+Campeche,Hombres,De 45 a 49 años,2820
+Campeche,Hombres,De 50 a 54 años,2165
+Campeche,Hombres,De 55 a 59 años,1587
+Campeche,Hombres,De 60 a 64 años,1165
+Campeche,Hombres,De 65 a 69 años,805
+Campeche,Mujeres,De 15 a 19 años,4526
+Campeche,Mujeres,De 20 a 24 años,4375
+Campeche,Mujeres,De 25 a 29 años,3796
+Campeche,Mujeres,De 30 a 34 años,3307
+Campeche,Mujeres,De 35 a 39 años,2819
+Campeche,Mujeres,De 40 a 44 años,2008
+Campeche,Mujeres,De 45 a 49 años,1421
+Campeche,Mujeres,De 50 a 54 años,1003
+Campeche,Mujeres,De 55 a 59 años,716
+Campeche,Mujeres,De 60 a 64 años,452
+Campeche,Mujeres,De 65 a 69 años,297
+Coahuila de Zaragoza,Hombres,De 15 a 19 años,9203
+Coahuila de Zaragoza,Hombres,De 20 a 24 años,9358
+Coahuila de Zaragoza,Hombres,De 25 a 29 años,8710
+Coahuila de Zaragoza,Hombres,De 30 a 34 años,8282
+Coahuila de Zaragoza,Hombres,De 35 a 39 años,7191
+Coahuila de Zaragoza,Hombres,De 40 a 44 años,5705
+Coahuila de Zaragoza,Hombres,De 45 a 49 años,4648
+Coahuila de Zaragoza,Hombres,De 50 a 54 años,3550
+Coahuila de Zaragoza,Hombres,De 55 a 59 años,2608
+Coahuila de Zaragoza,Hombres,De 60 a 64 años,1943
+Coahuila de Zaragoza,Hombres,De 65 a 69 años,1366
+Coahuila de Zaragoza,Mujeres,De 15 a 19 años,6920
+Coahuila de Zaragoza,Mujeres,De 20 a 24 años,6606
+Coahuila de Zaragoza,Mujeres,De 25 a 29 años,5623
+Coahuila de Zaragoza,Mujeres,De 30 a 34 años,5177
+Coahuila de Zaragoza,Mujeres,De 35 a 39 años,4519
+Coahuila de Zaragoza,Mujeres,De 40 a 44 años,3317
+Coahuila de Zaragoza,Mujeres,De 45 a 49 años,2490
+Coahuila de Zaragoza,Mujeres,De 50 a 54 años,1732
+Coahuila de Zaragoza,Mujeres,De 55 a 59 años,1062
+Coahuila de Zaragoza,Mujeres,De 60 a 64 años,805
+Coahuila de Zaragoza,Mujeres,De 65 a 69 años,533
+Colima,Hombres,De 15 a 19 años,1262
+Colima,Hombres,De 20 a 24 años,1494
+Colima,Hombres,De 25 a 29 años,1397
+Colima,Hombres,De 30 a 34 años,1139
+Colima,Hombres,De 35 a 39 años,1023
+Colima,Hombres,De 40 a 44 años,767
+Colima,Hombres,De 45 a 49 años,738
+Colima,Hombres,De 50 a 54 años,653
+Colima,Hombres,De 55 a 59 años,449
+Colima,Hombres,De 60 a 64 años,348
+Colima,Hombres,De 65 a 69 años,231
+Colima,Mujeres,De 15 a 19 años,886
+Colima,Mujeres,De 20 a 24 años,1085
+Colima,Mujeres,De 25 a 29 años,870
+Colima,Mujeres,De 30 a 34 años,688
+Colima,Mujeres,De 35 a 39 años,602
+Colima,Mujeres,De 40 a 44 años,458
+Colima,Mujeres,De 45 a 49 años,404
+Colima,Mujeres,De 50 a 54 años,295
+Colima,Mujeres,De 55 a 59 años,207
+Colima,Mujeres,De 60 a 64 años,145
+Colima,Mujeres,De 65 a 69 años,75
+Chiapas,Hombres,De 15 a 19 años,35951
+Chiapas,Hombres,De 20 a 24 años,31454
+Chiapas,Hombres,De 25 a 29 años,26827
+Chiapas,Hombres,De 30 a 34 años,24286
+Chiapas,Hombres,De 35 a 39 años,21174
+Chiapas,Hombres,De 40 a 44 años,16150
+Chiapas,Hombres,De 45 a 49 años,13594
+Chiapas,Hombres,De 50 a 54 años,10677
+Chiapas,Hombres,De 55 a 59 años,8047
+Chiapas,Hombres,De 60 a 64 años,6104
+Chiapas,Hombres,De 65 a 69 años,4016
+Chiapas,Mujeres,De 15 a 19 años,30040
+Chiapas,Mujeres,De 20 a 24 años,27778
+Chiapas,Mujeres,De 25 a 29 años,23230
+Chiapas,Mujeres,De 30 a 34 años,19711
+Chiapas,Mujeres,De 35 a 39 años,16363
+Chiapas,Mujeres,De 40 a 44 años,11803
+Chiapas,Mujeres,De 45 a 49 años,9178
+Chiapas,Mujeres,De 50 a 54 años,6478
+Chiapas,Mujeres,De 55 a 59 años,4442
+Chiapas,Mujeres,De 60 a 64 años,3415
+Chiapas,Mujeres,De 65 a 69 años,2333
+Chihuahua,Hombres,De 15 a 19 años,14372
+Chihuahua,Hombres,De 20 a 24 años,15445
+Chihuahua,Hombres,De 25 a 29 años,14479
+Chihuahua,Hombres,De 30 a 34 años,13234
+Chihuahua,Hombres,De 35 a 39 años,12182
+Chihuahua,Hombres,De 40 a 44 años,9187
+Chihuahua,Hombres,De 45 a 49 años,6890
+Chihuahua,Hombres,De 50 a 54 años,5253
+Chihuahua,Hombres,De 55 a 59 años,3547
+Chihuahua,Hombres,De 60 a 64 años,2783
+Chihuahua,Hombres,De 65 a 69 años,1980
+Chihuahua,Mujeres,De 15 a 19 años,11499
+Chihuahua,Mujeres,De 20 a 24 años,11799
+Chihuahua,Mujeres,De 25 a 29 años,10103
+Chihuahua,Mujeres,De 30 a 34 años,9074
+Chihuahua,Mujeres,De 35 a 39 años,7782
+Chihuahua,Mujeres,De 40 a 44 años,5821
+Chihuahua,Mujeres,De 45 a 49 años,4384
+Chihuahua,Mujeres,De 50 a 54 años,3129
+Chihuahua,Mujeres,De 55 a 59 años,1936
+Chihuahua,Mujeres,De 60 a 64 años,1440
+Chihuahua,Mujeres,De 65 a 69 años,1016
+Ciudad de México,Hombres,De 15 a 19 años,24002
+Ciudad de México,Hombres,De 20 a 24 años,32816
+Ciudad de México,Hombres,De 25 a 29 años,31523
+Ciudad de México,Hombres,De 30 a 34 años,26839
+Ciudad de México,Hombres,De 35 a 39 años,23441
+Ciudad de México,Hombres,De 40 a 44 años,18988
+Ciudad de México,Hombres,De 45 a 49 años,16888
+Ciudad de México,Hombres,De 50 a 54 años,15983
+Ciudad de México,Hombres,De 55 a 59 años,12288
+Ciudad de México,Hombres,De 60 a 64 años,9054
+Ciudad de México,Hombres,De 65 a 69 años,6025
+Ciudad de México,Mujeres,De 15 a 19 años,18712
+Ciudad de México,Mujeres,De 20 a 24 años,23634
+Ciudad de México,Mujeres,De 25 a 29 años,23226
+Ciudad de México,Mujeres,De 30 a 34 años,19896
+Ciudad de México,Mujeres,De 35 a 39 años,17338
+Ciudad de México,Mujeres,De 40 a 44 años,14360
+Ciudad de México,Mujeres,De 45 a 49 años,13216
+Ciudad de México,Mujeres,De 50 a 54 años,11947
+Ciudad de México,Mujeres,De 55 a 59 años,8279
+Ciudad de México,Mujeres,De 60 a 64 años,6123
+Ciudad de México,Mujeres,De 65 a 69 años,3747
+Durango,Hombres,De 15 a 19 años,3610
+Durango,Hombres,De 20 a 24 años,3605
+Durango,Hombres,De 25 a 29 años,3120
+Durango,Hombres,De 30 a 34 años,2781
+Durango,Hombres,De 35 a 39 años,2505
+Durango,Hombres,De 40 a 44 años,1997
+Durango,Hombres,De 45 a 49 años,1563
+Durango,Hombres,De 50 a 54 años,1344
+Durango,Hombres,De 55 a 59 años,1090
+Durango,Hombres,De 60 a 64 años,892
+Durango,Hombres,De 65 a 69 años,623
+Durango,Mujeres,De 15 a 19 años,2736
+Durango,Mujeres,De 20 a 24 años,2616
+Durango,Mujeres,De 25 a 29 años,2148
+Durango,Mujeres,De 30 a 34 años,1935
+Durango,Mujeres,De 35 a 39 años,1572
+Durango,Mujeres,De 40 a 44 años,1257
+Durango,Mujeres,De 45 a 49 años,1009
+Durango,Mujeres,De 50 a 54 años,723
+Durango,Mujeres,De 55 a 59 años,515
+Durango,Mujeres,De 60 a 64 años,355
+Durango,Mujeres,De 65 a 69 años,220
+Guanajuato,Hombres,De 15 a 19 años,4333
+Guanajuato,Hombres,De 20 a 24 años,4856
+Guanajuato,Hombres,De 25 a 29 años,4164
+Guanajuato,Hombres,De 30 a 34 años,3647
+Guanajuato,Hombres,De 35 a 39 años,3356
+Guanajuato,Hombres,De 40 a 44 años,2873
+Guanajuato,Hombres,De 45 a 49 años,2530
+Guanajuato,Hombres,De 50 a 54 años,2194
+Guanajuato,Hombres,De 55 a 59 años,1829
+Guanajuato,Hombres,De 60 a 64 años,1413
+Guanajuato,Hombres,De 65 a 69 años,1061
+Guanajuato,Mujeres,De 15 a 19 años,3402
+Guanajuato,Mujeres,De 20 a 24 años,3426
+Guanajuato,Mujeres,De 25 a 29 años,2953
+Guanajuato,Mujeres,De 30 a 34 años,2657
+Guanajuato,Mujeres,De 35 a 39 años,2372
+Guanajuato,Mujeres,De 40 a 44 años,2012
+Guanajuato,Mujeres,De 45 a 49 años,1665
+Guanajuato,Mujeres,De 50 a 54 años,1427
+Guanajuato,Mujeres,De 55 a 59 años,999
+Guanajuato,Mujeres,De 60 a 64 años,813
+Guanajuato,Mujeres,De 65 a 69 años,537
+Guerrero,Hombres,De 15 a 19 años,6265
+Guerrero,Hombres,De 20 a 24 años,5870
+Guerrero,Hombres,De 25 a 29 años,4865
+Guerrero,Hombres,De 30 a 34 años,4363
+Guerrero,Hombres,De 35 a 39 años,3930
+Guerrero,Hombres,De 40 a 44 años,3267
+Guerrero,Hombres,De 45 a 49 años,2825
+Guerrero,Hombres,De 50 a 54 años,2483
+Guerrero,Hombres,De 55 a 59 años,1893
+Guerrero,Hombres,De 60 a 64 años,1377
+Guerrero,Hombres,De 65 a 69 años,967
+Guerrero,Mujeres,De 15 a 19 años,5016
+Guerrero,Mujeres,De 20 a 24 años,4711
+Guerrero,Mujeres,De 25 a 29 años,3684
+Guerrero,Mujeres,De 30 a 34 años,3279
+Guerrero,Mujeres,De 35 a 39 años,2887
+Guerrero,Mujeres,De 40 a 44 años,2238
+Guerrero,Mujeres,De 45 a 49 años,1903
+Guerrero,Mujeres,De 50 a 54 años,1448
+Guerrero,Mujeres,De 55 a 59 años,936
+Guerrero,Mujeres,De 60 a 64 años,719
+Guerrero,Mujeres,De 65 a 69 años,545
+Hidalgo,Hombres,De 15 a 19 años,3745
+Hidalgo,Hombres,De 20 a 24 años,3793
+Hidalgo,Hombres,De 25 a 29 años,3274
+Hidalgo,Hombres,De 30 a 34 años,2928
+Hidalgo,Hombres,De 35 a 39 años,2569
+Hidalgo,Hombres,De 40 a 44 años,2132
+Hidalgo,Hombres,De 45 a 49 años,1886
+Hidalgo,Hombres,De 50 a 54 años,1654
+Hidalgo,Hombres,De 55 a 59 años,1216
+Hidalgo,Hombres,De 60 a 64 años,844
+Hidalgo,Hombres,De 65 a 69 años,620
+Hidalgo,Mujeres,De 15 a 19 años,2756
+Hidalgo,Mujeres,De 20 a 24 años,2833
+Hidalgo,Mujeres,De 25 a 29 años,2552
+Hidalgo,Mujeres,De 30 a 34 años,2265
+Hidalgo,Mujeres,De 35 a 39 años,1996
+Hidalgo,Mujeres,De 40 a 44 años,1667
+Hidalgo,Mujeres,De 45 a 49 años,1293
+Hidalgo,Mujeres,De 50 a 54 años,981
+Hidalgo,Mujeres,De 55 a 59 años,644
+Hidalgo,Mujeres,De 60 a 64 años,479
+Hidalgo,Mujeres,De 65 a 69 años,341
+Jalisco,Hombres,De 15 a 19 años,6908
+Jalisco,Hombres,De 20 a 24 años,9631
+Jalisco,Hombres,De 25 a 29 años,8905
+Jalisco,Hombres,De 30 a 34 años,7019
+Jalisco,Hombres,De 35 a 39 años,5990
+Jalisco,Hombres,De 40 a 44 años,4757
+Jalisco,Hombres,De 45 a 49 años,4026
+Jalisco,Hombres,De 50 a 54 años,3765
+Jalisco,Hombres,De 55 a 59 años,2958
+Jalisco,Hombres,De 60 a 64 años,2463
+Jalisco,Hombres,De 65 a 69 años,1821
+Jalisco,Mujeres,De 15 a 19 años,5008
+Jalisco,Mujeres,De 20 a 24 años,5938
+Jalisco,Mujeres,De 25 a 29 años,5197
+Jalisco,Mujeres,De 30 a 34 años,4313
+Jalisco,Mujeres,De 35 a 39 años,3793
+Jalisco,Mujeres,De 40 a 44 años,3051
+Jalisco,Mujeres,De 45 a 49 años,2482
+Jalisco,Mujeres,De 50 a 54 años,2246
+Jalisco,Mujeres,De 55 a 59 años,1587
+Jalisco,Mujeres,De 60 a 64 años,1203
+Jalisco,Mujeres,De 65 a 69 años,805
+México,Hombres,De 15 a 19 años,29524
+México,Hombres,De 20 a 24 años,33583
+México,Hombres,De 25 a 29 años,28872
+México,Hombres,De 30 a 34 años,23985
+México,Hombres,De 35 a 39 años,21523
+México,Hombres,De 40 a 44 años,18327
+México,Hombres,De 45 a 49 años,15082
+México,Hombres,De 50 a 54 años,13038
+México,Hombres,De 55 a 59 años,9114
+México,Hombres,De 60 a 64 años,6516
+México,Hombres,De 65 a 69 años,3891
+México,Mujeres,De 15 a 19 años,22254
+México,Mujeres,De 20 a 24 años,24321
+México,Mujeres,De 25 a 29 años,21014
+México,Mujeres,De 30 a 34 años,17739
+México,Mujeres,De 35 a 39 años,16376
+México,Mujeres,De 40 a 44 años,13609
+México,Mujeres,De 45 a 49 años,11180
+México,Mujeres,De 50 a 54 años,8584
+México,Mujeres,De 55 a 59 años,5571
+México,Mujeres,De 60 a 64 años,3770
+México,Mujeres,De 65 a 69 años,2245
+Michoacán de Ocampo,Hombres,De 15 a 19 años,5084
+Michoacán de Ocampo,Hombres,De 20 a 24 años,5464
+Michoacán de Ocampo,Hombres,De 25 a 29 años,4709
+Michoacán de Ocampo,Hombres,De 30 a 34 años,3838
+Michoacán de Ocampo,Hombres,De 35 a 39 años,3402
+Michoacán de Ocampo,Hombres,De 40 a 44 años,2917
+Michoacán de Ocampo,Hombres,De 45 a 49 años,2616
+Michoacán de Ocampo,Hombres,De 50 a 54 años,2510
+Michoacán de Ocampo,Hombres,De 55 a 59 años,1980
+Michoacán de Ocampo,Hombres,De 60 a 64 años,1551
+Michoacán de Ocampo,Hombres,De 65 a 69 años,1196
+Michoacán de Ocampo,Mujeres,De 15 a 19 años,3898
+Michoacán de Ocampo,Mujeres,De 20 a 24 años,3851
+Michoacán de Ocampo,Mujeres,De 25 a 29 años,3141
+Michoacán de Ocampo,Mujeres,De 30 a 34 años,2740
+Michoacán de Ocampo,Mujeres,De 35 a 39 años,2304
+Michoacán de Ocampo,Mujeres,De 40 a 44 años,1990
+Michoacán de Ocampo,Mujeres,De 45 a 49 años,1693
+Michoacán de Ocampo,Mujeres,De 50 a 54 años,1417
+Michoacán de Ocampo,Mujeres,De 55 a 59 años,971
+Michoacán de Ocampo,Mujeres,De 60 a 64 años,792
+Michoacán de Ocampo,Mujeres,De 65 a 69 años,483
+Morelos,Hombres,De 15 a 19 años,6446
+Morelos,Hombres,De 20 a 24 años,6514
+Morelos,Hombres,De 25 a 29 años,5299
+Morelos,Hombres,De 30 a 34 años,4703
+Morelos,Hombres,De 35 a 39 años,4349
+Morelos,Hombres,De 40 a 44 años,3701
+Morelos,Hombres,De 45 a 49 años,3138
+Morelos,Hombres,De 50 a 54 años,2915
+Morelos,Hombres,De 55 a 59 años,2273
+Morelos,Hombres,De 60 a 64 años,1767
+Morelos,Hombres,De 65 a 69 años,1312
+Morelos,Mujeres,De 15 a 19 años,5094
+Morelos,Mujeres,De 20 a 24 años,5017
+Morelos,Mujeres,De 25 a 29 años,4212
+Morelos,Mujeres,De 30 a 34 años,3675
+Morelos,Mujeres,De 35 a 39 años,3413
+Morelos,Mujeres,De 40 a 44 años,2909
+Morelos,Mujeres,De 45 a 49 años,2356
+Morelos,Mujeres,De 50 a 54 años,2057
+Morelos,Mujeres,De 55 a 59 años,1404
+Morelos,Mujeres,De 60 a 64 años,1046
+Morelos,Mujeres,De 65 a 69 años,720
+Nayarit,Hombres,De 15 a 19 años,2295
+Nayarit,Hombres,De 20 a 24 años,2578
+Nayarit,Hombres,De 25 a 29 años,2076
+Nayarit,Hombres,De 30 a 34 años,1854
+Nayarit,Hombres,De 35 a 39 años,1611
+Nayarit,Hombres,De 40 a 44 años,1337
+Nayarit,Hombres,De 45 a 49 años,1061
+Nayarit,Hombres,De 50 a 54 años,1049
+Nayarit,Hombres,De 55 a 59 años,779
+Nayarit,Hombres,De 60 a 64 años,628
+Nayarit,Hombres,De 65 a 69 años,550
+Nayarit,Mujeres,De 15 a 19 años,1736
+Nayarit,Mujeres,De 20 a 24 años,1727
+Nayarit,Mujeres,De 25 a 29 años,1322
+Nayarit,Mujeres,De 30 a 34 años,1088
+Nayarit,Mujeres,De 35 a 39 años,990
+Nayarit,Mujeres,De 40 a 44 años,754
+Nayarit,Mujeres,De 45 a 49 años,630
+Nayarit,Mujeres,De 50 a 54 años,525
+Nayarit,Mujeres,De 55 a 59 años,327
+Nayarit,Mujeres,De 60 a 64 años,268
+Nayarit,Mujeres,De 65 a 69 años,185
+Nuevo León,Hombres,De 15 a 19 años,10984
+Nuevo León,Hombres,De 20 a 24 años,13009
+Nuevo León,Hombres,De 25 a 29 años,12278
+Nuevo León,Hombres,De 30 a 34 años,11063
+Nuevo León,Hombres,De 35 a 39 años,9911
+Nuevo León,Hombres,De 40 a 44 años,7879
+Nuevo León,Hombres,De 45 a 49 años,5939
+Nuevo León,Hombres,De 50 a 54 años,4632
+Nuevo León,Hombres,De 55 a 59 años,3234
+Nuevo León,Hombres,De 60 a 64 años,2665
+Nuevo León,Hombres,De 65 a 69 años,1858
+Nuevo León,Mujeres,De 15 a 19 años,8288
+Nuevo León,Mujeres,De 20 a 24 años,8542
+Nuevo León,Mujeres,De 25 a 29 años,7373
+Nuevo León,Mujeres,De 30 a 34 años,6959
+Nuevo León,Mujeres,De 35 a 39 años,6010
+Nuevo León,Mujeres,De 40 a 44 años,4665
+Nuevo León,Mujeres,De 45 a 49 años,3388
+Nuevo León,Mujeres,De 50 a 54 años,2508
+Nuevo León,Mujeres,De 55 a 59 años,1552
+Nuevo León,Mujeres,De 60 a 64 años,1162
+Nuevo León,Mujeres,De 65 a 69 años,812
+Oaxaca,Hombres,De 15 a 19 años,10596
+Oaxaca,Hombres,De 20 a 24 años,9153
+Oaxaca,Hombres,De 25 a 29 años,7893
+Oaxaca,Hombres,De 30 a 34 años,7269
+Oaxaca,Hombres,De 35 a 39 años,6378
+Oaxaca,Hombres,De 40 a 44 años,5364
+Oaxaca,Hombres,De 45 a 49 años,4604
+Oaxaca,Hombres,De 50 a 54 años,3749
+Oaxaca,Hombres,De 55 a 59 años,2776
+Oaxaca,Hombres,De 60 a 64 años,2111
+Oaxaca,Hombres,De 65 a 69 años,1537
+Oaxaca,Mujeres,De 15 a 19 años,8218
+Oaxaca,Mujeres,De 20 a 24 años,7704
+Oaxaca,Mujeres,De 25 a 29 años,6652
+Oaxaca,Mujeres,De 30 a 34 años,5889
+Oaxaca,Mujeres,De 35 a 39 años,4882
+Oaxaca,Mujeres,De 40 a 44 años,3851
+Oaxaca,Mujeres,De 45 a 49 años,3092
+Oaxaca,Mujeres,De 50 a 54 años,2390
+Oaxaca,Mujeres,De 55 a 59 años,1588
+Oaxaca,Mujeres,De 60 a 64 años,1204
+Oaxaca,Mujeres,De 65 a 69 años,846
+Puebla,Hombres,De 15 a 19 años,6081
+Puebla,Hombres,De 20 a 24 años,6752
+Puebla,Hombres,De 25 a 29 años,5685
+Puebla,Hombres,De 30 a 34 años,4901
+Puebla,Hombres,De 35 a 39 años,4279
+Puebla,Hombres,De 40 a 44 años,3598
+Puebla,Hombres,De 45 a 49 años,3030
+Puebla,Hombres,De 50 a 54 años,2719
+Puebla,Hombres,De 55 a 59 años,2117
+Puebla,Hombres,De 60 a 64 años,1526
+Puebla,Hombres,De 65 a 69 años,1116
+Puebla,Mujeres,De 15 a 19 años,4640
+Puebla,Mujeres,De 20 a 24 años,4910
+Puebla,Mujeres,De 25 a 29 años,4451
+Puebla,Mujeres,De 30 a 34 años,3885
+Puebla,Mujeres,De 35 a 39 años,3433
+Puebla,Mujeres,De 40 a 44 años,2734
+Puebla,Mujeres,De 45 a 49 años,2255
+Puebla,Mujeres,De 50 a 54 años,1844
+Puebla,Mujeres,De 55 a 59 años,1326
+Puebla,Mujeres,De 60 a 64 años,1004
+Puebla,Mujeres,De 65 a 69 años,572
+Querétaro,Hombres,De 15 a 19 años,2174
+Querétaro,Hombres,De 20 a 24 años,2660
+Querétaro,Hombres,De 25 a 29 años,2623
+Querétaro,Hombres,De 30 a 34 años,2142
+Querétaro,Hombres,De 35 a 39 años,1838
+Querétaro,Hombres,De 40 a 44 años,1508
+Querétaro,Hombres,De 45 a 49 años,1261
+Querétaro,Hombres,De 50 a 54 años,1176
+Querétaro,Hombres,De 55 a 59 años,765
+Querétaro,Hombres,De 60 a 64 años,574
+Querétaro,Hombres,De 65 a 69 años,387
+Querétaro,Mujeres,De 15 a 19 años,1594
+Querétaro,Mujeres,De 20 a 24 años,1939
+Querétaro,Mujeres,De 25 a 29 años,1652
+Querétaro,Mujeres,De 30 a 34 años,1433
+Querétaro,Mujeres,De 35 a 39 años,1318
+Querétaro,Mujeres,De 40 a 44 años,1082
+Querétaro,Mujeres,De 45 a 49 años,919
+Querétaro,Mujeres,De 50 a 54 años,772
+Querétaro,Mujeres,De 55 a 59 años,492
+Querétaro,Mujeres,De 60 a 64 años,341
+Querétaro,Mujeres,De 65 a 69 años,218
+Quintana Roo,Hombres,De 15 a 19 años,10576
+Quintana Roo,Hombres,De 20 a 24 años,13881
+Quintana Roo,Hombres,De 25 a 29 años,12897
+Quintana Roo,Hombres,De 30 a 34 años,11069
+Quintana Roo,Hombres,De 35 a 39 años,9307
+Quintana Roo,Hombres,De 40 a 44 años,6946
+Quintana Roo,Hombres,De 45 a 49 años,4938
+Quintana Roo,Hombres,De 50 a 54 años,3598
+Quintana Roo,Hombres,De 55 a 59 años,2329
+Quintana Roo,Hombres,De 60 a 64 años,1535
+Quintana Roo,Hombres,De 65 a 69 años,979
+Quintana Roo,Mujeres,De 15 a 19 años,7618
+Quintana Roo,Mujeres,De 20 a 24 años,9377
+Quintana Roo,Mujeres,De 25 a 29 años,8405
+Quintana Roo,Mujeres,De 30 a 34 años,6970
+Quintana Roo,Mujeres,De 35 a 39 años,5495
+Quintana Roo,Mujeres,De 40 a 44 años,3771
+Quintana Roo,Mujeres,De 45 a 49 años,2564
+Quintana Roo,Mujeres,De 50 a 54 años,1698
+Quintana Roo,Mujeres,De 55 a 59 años,1058
+Quintana Roo,Mujeres,De 60 a 64 años,660
+Quintana Roo,Mujeres,De 65 a 69 años,364
+San Luis Potosí,Hombres,De 15 a 19 años,3603
+San Luis Potosí,Hombres,De 20 a 24 años,3713
+San Luis Potosí,Hombres,De 25 a 29 años,3288
+San Luis Potosí,Hombres,De 30 a 34 años,2855
+San Luis Potosí,Hombres,De 35 a 39 años,2412
+San Luis Potosí,Hombres,De 40 a 44 años,2105
+San Luis Potosí,Hombres,De 45 a 49 años,1883
+San Luis Potosí,Hombres,De 50 a 54 años,1617
+San Luis Potosí,Hombres,De 55 a 59 años,1310
+San Luis Potosí,Hombres,De 60 a 64 años,964
+San Luis Potosí,Hombres,De 65 a 69 años,761
+San Luis Potosí,Mujeres,De 15 a 19 años,2605
+San Luis Potosí,Mujeres,De 20 a 24 años,2583
+San Luis Potosí,Mujeres,De 25 a 29 años,2164
+San Luis Potosí,Mujeres,De 30 a 34 años,1899
+San Luis Potosí,Mujeres,De 35 a 39 años,1696
+San Luis Potosí,Mujeres,De 40 a 44 años,1341
+San Luis Potosí,Mujeres,De 45 a 49 años,1137
+San Luis Potosí,Mujeres,De 50 a 54 años,844
+San Luis Potosí,Mujeres,De 55 a 59 años,599
+San Luis Potosí,Mujeres,De 60 a 64 años,459
+San Luis Potosí,Mujeres,De 65 a 69 años,327
+Sinaloa,Hombres,De 15 a 19 años,12069
+Sinaloa,Hombres,De 20 a 24 años,11832
+Sinaloa,Hombres,De 25 a 29 años,9694
+Sinaloa,Hombres,De 30 a 34 años,9072
+Sinaloa,Hombres,De 35 a 39 años,8278
+Sinaloa,Hombres,De 40 a 44 años,6897
+Sinaloa,Hombres,De 45 a 49 años,5624
+Sinaloa,Hombres,De 50 a 54 años,5152
+Sinaloa,Hombres,De 55 a 59 años,3979
+Sinaloa,Hombres,De 60 a 64 años,3080
+Sinaloa,Hombres,De 65 a 69 años,2525
+Sinaloa,Mujeres,De 15 a 19 años,9804
+Sinaloa,Mujeres,De 20 a 24 años,8564
+Sinaloa,Mujeres,De 25 a 29 años,6868
+Sinaloa,Mujeres,De 30 a 34 años,6204
+Sinaloa,Mujeres,De 35 a 39 años,5523
+Sinaloa,Mujeres,De 40 a 44 años,4424
+Sinaloa,Mujeres,De 45 a 49 años,3517
+Sinaloa,Mujeres,De 50 a 54 años,2779
+Sinaloa,Mujeres,De 55 a 59 años,1883
+Sinaloa,Mujeres,De 60 a 64 años,1510
+Sinaloa,Mujeres,De 65 a 69 años,1104
+Sonora,Hombres,De 15 a 19 años,10629
+Sonora,Hombres,De 20 a 24 años,11517
+Sonora,Hombres,De 25 a 29 años,10297
+Sonora,Hombres,De 30 a 34 años,9022
+Sonora,Hombres,De 35 a 39 años,8076
+Sonora,Hombres,De 40 a 44 años,6332
+Sonora,Hombres,De 45 a 49 años,5186
+Sonora,Hombres,De 50 a 54 años,4349
+Sonora,Hombres,De 55 a 59 años,3204
+Sonora,Hombres,De 60 a 64 años,2293
+Sonora,Hombres,De 65 a 69 años,1639
+Sonora,Mujeres,De 15 a 19 años,7955
+Sonora,Mujeres,De 20 a 24 años,7720
+Sonora,Mujeres,De 25 a 29 años,6653
+Sonora,Mujeres,De 30 a 34 años,5884
+Sonora,Mujeres,De 35 a 39 años,4909
+Sonora,Mujeres,De 40 a 44 años,3659
+Sonora,Mujeres,De 45 a 49 años,2883
+Sonora,Mujeres,De 50 a 54 años,2135
+Sonora,Mujeres,De 55 a 59 años,1347
+Sonora,Mujeres,De 60 a 64 años,961
+Sonora,Mujeres,De 65 a 69 años,639
+Tabasco,Hombres,De 15 a 19 años,13255
+Tabasco,Hombres,De 20 a 24 años,13761
+Tabasco,Hombres,De 25 a 29 años,12207
+Tabasco,Hombres,De 30 a 34 años,11128
+Tabasco,Hombres,De 35 a 39 años,10293
+Tabasco,Hombres,De 40 a 44 años,7943
+Tabasco,Hombres,De 45 a 49 años,6681
+Tabasco,Hombres,De 50 a 54 años,4899
+Tabasco,Hombres,De 55 a 59 años,3598
+Tabasco,Hombres,De 60 a 64 años,2398
+Tabasco,Hombres,De 65 a 69 años,1566
+Tabasco,Mujeres,De 15 a 19 años,9707
+Tabasco,Mujeres,De 20 a 24 años,9976
+Tabasco,Mujeres,De 25 a 29 años,8655
+Tabasco,Mujeres,De 30 a 34 años,7523
+Tabasco,Mujeres,De 35 a 39 años,6236
+Tabasco,Mujeres,De 40 a 44 años,4317
+Tabasco,Mujeres,De 45 a 49 años,3050
+Tabasco,Mujeres,De 50 a 54 años,2077
+Tabasco,Mujeres,De 55 a 59 años,1293
+Tabasco,Mujeres,De 60 a 64 años,773
+Tabasco,Mujeres,De 65 a 69 años,506
+Tamaulipas,Hombres,De 15 a 19 años,12701
+Tamaulipas,Hombres,De 20 a 24 años,14157
+Tamaulipas,Hombres,De 25 a 29 años,12957
+Tamaulipas,Hombres,De 30 a 34 años,11746
+Tamaulipas,Hombres,De 35 a 39 años,10322
+Tamaulipas,Hombres,De 40 a 44 años,8356
+Tamaulipas,Hombres,De 45 a 49 años,6504
+Tamaulipas,Hombres,De 50 a 54 años,5095
+Tamaulipas,Hombres,De 55 a 59 años,3532
+Tamaulipas,Hombres,De 60 a 64 años,2756
+Tamaulipas,Hombres,De 65 a 69 años,2053
+Tamaulipas,Mujeres,De 15 a 19 años,9739
+Tamaulipas,Mujeres,De 20 a 24 años,9958
+Tamaulipas,Mujeres,De 25 a 29 años,8891
+Tamaulipas,Mujeres,De 30 a 34 años,7779
+Tamaulipas,Mujeres,De 35 a 39 años,6690
+Tamaulipas,Mujeres,De 40 a 44 años,5091
+Tamaulipas,Mujeres,De 45 a 49 años,3742
+Tamaulipas,Mujeres,De 50 a 54 años,2582
+Tamaulipas,Mujeres,De 55 a 59 años,1560
+Tamaulipas,Mujeres,De 60 a 64 años,1173
+Tamaulipas,Mujeres,De 65 a 69 años,894
+Tlaxcala,Hombres,De 15 a 19 años,911
+Tlaxcala,Hombres,De 20 a 24 años,875
+Tlaxcala,Hombres,De 25 a 29 años,757
+Tlaxcala,Hombres,De 30 a 34 años,665
+Tlaxcala,Hombres,De 35 a 39 años,647
+Tlaxcala,Hombres,De 40 a 44 años,582
+Tlaxcala,Hombres,De 45 a 49 años,438
+Tlaxcala,Hombres,De 50 a 54 años,419
+Tlaxcala,Hombres,De 55 a 59 años,299
+Tlaxcala,Hombres,De 60 a 64 años,233
+Tlaxcala,Hombres,De 65 a 69 años,163
+Tlaxcala,Mujeres,De 15 a 19 años,665
+Tlaxcala,Mujeres,De 20 a 24 años,636
+Tlaxcala,Mujeres,De 25 a 29 años,616
+Tlaxcala,Mujeres,De 30 a 34 años,562
+Tlaxcala,Mujeres,De 35 a 39 años,527
+Tlaxcala,Mujeres,De 40 a 44 años,427
+Tlaxcala,Mujeres,De 45 a 49 años,352
+Tlaxcala,Mujeres,De 50 a 54 años,257
+Tlaxcala,Mujeres,De 55 a 59 años,205
+Tlaxcala,Mujeres,De 60 a 64 años,138
+Tlaxcala,Mujeres,De 65 a 69 años,97
+Veracruz de Ignacio de la Llave,Hombres,De 15 a 19 años,30793
+Veracruz de Ignacio de la Llave,Hombres,De 20 a 24 años,28010
+Veracruz de Ignacio de la Llave,Hombres,De 25 a 29 años,23452
+Veracruz de Ignacio de la Llave,Hombres,De 30 a 34 años,21403
+Veracruz de Ignacio de la Llave,Hombres,De 35 a 39 años,20661
+Veracruz de Ignacio de la Llave,Hombres,De 40 a 44 años,18208
+Veracruz de Ignacio de la Llave,Hombres,De 45 a 49 años,15780
+Veracruz de Ignacio de la Llave,Hombres,De 50 a 54 años,12945
+Veracruz de Ignacio de la Llave,Hombres,De 55 a 59 años,10080
+Veracruz de Ignacio de la Llave,Hombres,De 60 a 64 años,7626
+Veracruz de Ignacio de la Llave,Hombres,De 65 a 69 años,5631
+Veracruz de Ignacio de la Llave,Mujeres,De 15 a 19 años,23735
+Veracruz de Ignacio de la Llave,Mujeres,De 20 a 24 años,22345
+Veracruz de Ignacio de la Llave,Mujeres,De 25 a 29 años,19213
+Veracruz de Ignacio de la Llave,Mujeres,De 30 a 34 años,16953
+Veracruz de Ignacio de la Llave,Mujeres,De 35 a 39 años,15551
+Veracruz de Ignacio de la Llave,Mujeres,De 40 a 44 años,12488
+Veracruz de Ignacio de la Llave,Mujeres,De 45 a 49 años,9721
+Veracruz de Ignacio de la Llave,Mujeres,De 50 a 54 años,7390
+Veracruz de Ignacio de la Llave,Mujeres,De 55 a 59 años,5240
+Veracruz de Ignacio de la Llave,Mujeres,De 60 a 64 años,3653
+Veracruz de Ignacio de la Llave,Mujeres,De 65 a 69 años,2634
+Yucatán,Hombres,De 15 a 19 años,5727
+Yucatán,Hombres,De 20 a 24 años,6586
+Yucatán,Hombres,De 25 a 29 años,5900
+Yucatán,Hombres,De 30 a 34 años,5217
+Yucatán,Hombres,De 35 a 39 años,4541
+Yucatán,Hombres,De 40 a 44 años,3524
+Yucatán,Hombres,De 45 a 49 años,3063
+Yucatán,Hombres,De 50 a 54 años,2647
+Yucatán,Hombres,De 55 a 59 años,2240
+Yucatán,Hombres,De 60 a 64 años,1797
+Yucatán,Hombres,De 65 a 69 años,1280
+Yucatán,Mujeres,De 15 a 19 años,3928
+Yucatán,Mujeres,De 20 a 24 años,4154
+Yucatán,Mujeres,De 25 a 29 años,3599
+Yucatán,Mujeres,De 30 a 34 años,2975
+Yucatán,Mujeres,De 35 a 39 años,2588
+Yucatán,Mujeres,De 40 a 44 años,1946
+Yucatán,Mujeres,De 45 a 49 años,1689
+Yucatán,Mujeres,De 50 a 54 años,1289
+Yucatán,Mujeres,De 55 a 59 años,927
+Yucatán,Mujeres,De 60 a 64 años,677
+Yucatán,Mujeres,De 65 a 69 años,422
+Zacatecas,Hombres,De 15 a 19 años,1169
+Zacatecas,Hombres,De 20 a 24 años,1173
+Zacatecas,Hombres,De 25 a 29 años,991
+Zacatecas,Hombres,De 30 a 34 años,866
+Zacatecas,Hombres,De 35 a 39 años,730
+Zacatecas,Hombres,De 40 a 44 años,687
+Zacatecas,Hombres,De 45 a 49 años,611
+Zacatecas,Hombres,De 50 a 54 años,539
+Zacatecas,Hombres,De 55 a 59 años,442
+Zacatecas,Hombres,De 60 a 64 años,335
+Zacatecas,Hombres,De 65 a 69 años,250
+Zacatecas,Mujeres,De 15 a 19 años,807
+Zacatecas,Mujeres,De 20 a 24 años,832
+Zacatecas,Mujeres,De 25 a 29 años,629
+Zacatecas,Mujeres,De 30 a 34 años,575
+Zacatecas,Mujeres,De 35 a 39 años,493
+Zacatecas,Mujeres,De 40 a 44 años,427
+Zacatecas,Mujeres,De 45 a 49 años,329
+Zacatecas,Mujeres,De 50 a 54 años,301
+Zacatecas,Mujeres,De 55 a 59 años,197
+Zacatecas,Mujeres,De 60 a 64 años,141
+Zacatecas,Mujeres,De 65 a 69 años,109
