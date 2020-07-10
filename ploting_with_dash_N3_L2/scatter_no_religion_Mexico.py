@@ -32,7 +32,8 @@ fig = px.scatter(df, x="Rango_Edades", y="Personas",
 app.layout = html.Div([
     dcc.Graph(
         id='religion-mexico',
-        figure=fig
+        figure=fig,
+        animate=True
     )
 ])
 
